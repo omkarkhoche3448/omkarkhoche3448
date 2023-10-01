@@ -1,36 +1,3 @@
-
-Conversation opened. 2 messages. 2 messages unread.
-
-Skip to content
-Using Gmail with screen readers
-1 of 490
-Document from 𝐎𝐦𝐤𝐚𝐫 🍁
-Inbox
-
-OMKAR KHOCHE 3
-Attachments
-00:13 (3 minutes ago)
-to me
-
- One attachment
-  • Scanned by Gmail
-
-OMKAR KHOCHE 3
-Attachments
-00:16 (0 minutes ago)
-to me
-
-
----------- Forwarded message ---------
-From: OMKAR KHOCHE 3 <omkarkhoche123@gmail.com>
-Date: Mon, Oct 2, 2023, 12:13 AM
-Subject: Document from 𝐎𝐦𝐤𝐚𝐫 🍁
-To: Omkar Khoche 2 <omkarkhoche3448@gmail.com>
-
-
-
- One attachment
-  • Scanned by Gmail
 <h1 align="center">Hi 👋, I'm Omkar khoche</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
