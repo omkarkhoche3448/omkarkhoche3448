@@ -38,6 +38,7 @@ Welcome to my GitHub profile. I'm Omkar Khoche, a passionate developer with a ke
 
 </div>
 <br>
+
 ## Projects
 
 Feel free to explore my repositories and check out my work!
