@@ -37,7 +37,6 @@ Welcome to my GitHub profile. I'm Omkar Khoche, a passionate developer with a ke
 <a href="#"><img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="50" height="50"></a>
 
 </div>
-<br>
 
 ## Projects
 
