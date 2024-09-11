@@ -11,11 +11,44 @@ Welcome to my GitHub profile. I'm Omkar Khoche, a passionate developer with a ke
 - 📫 How to reach me: [omkarkhoche.work@gmail.com](mailto:omkarkhoche.work@gmail.com)
 
 ## Skills
+<div align="center">
 
-- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap, Material-UI
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, SQL, MongoDB Atlas
-- **Tools & Technologies**: Git, GitHub, Redux, Vercel, Netlify, Framer Motion, Clerk, RESTful APIs, Postman, Chart.js, npm, Cloudinary, RazorPay, Clerk Authentication, Tailwind CSS
+<a href="#"><img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=express" title="Express" alt="Express" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=spring" title="Spring" alt="Spring" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=materialui" title="Material UI" alt="Material UI" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=netlify" title="Netlify" alt="Netlify" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=ai" title="AI" alt="AI" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=ansible" title="Ansible" alt="Ansible" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" alt="Jenkins" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=kafka" title="Kafka" alt="Kafka" width="50" height="50"></a>
+
+</div>
+<br>
 
 ## Projects
 
