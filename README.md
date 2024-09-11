@@ -45,14 +45,15 @@ Feel free to explore my repositories and check out my work!
 
 ## Connect with Me
 
-<div align="center">
+<div >
   <a href="https://www.linkedin.com/in/omkar-khoche-964a86259" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40" style="margin-right: 20px;"/>
   </a>
   <a href="https://x.com/Omkarkhoche" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" title="Twitter" alt="Twitter" width="40" height="40" style="margin-left: 20px;"/>
   </a>
 </div>
+
 
 
 Looking forward to collaborating and connecting with other developers. Let's build something amazing together!
