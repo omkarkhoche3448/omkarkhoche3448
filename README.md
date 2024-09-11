@@ -23,6 +23,7 @@ Welcome to my GitHub profile. I'm Omkar Khoche, a passionate developer with a ke
 <a href="#"><img src="https://skillicons.dev/icons?i=express" title="Express" alt="Express" width="50" height="50"></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="50" height="50"></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="50" height="50"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" width="50" height="50"></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="50" height="50"></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="50" height="50"></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux" width="50" height="50"></a>
