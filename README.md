@@ -47,10 +47,10 @@ Feel free to explore my repositories and check out my work!
 
 <div >
   <a href="https://www.linkedin.com/in/omkar-khoche-964a86259" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40" style="margin-right: 20px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="https://x.com/Omkarkhoche" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" title="Twitter" alt="Twitter" width="40" height="40" style="margin-left: 20px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>
   </a>
 </div>
 
