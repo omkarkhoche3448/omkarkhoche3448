@@ -50,7 +50,7 @@ Feel free to explore my repositories and check out my work!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="https://x.com/Omkarkhoche" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>
+    <img src="https://imgs.search.brave.com/zsUPk7-1OrJqgwCkN0YHlWtYmFSQTTmJ5-7DNtUcz8E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA2LzI5LzIyLzQw/LzM2MF9GXzYyOTIy/NDA2Nl96ZG5KSUth/SkhpTWtQNkVPSW9o/Nmh2VXhjbkZwc2JF/MS5qcGc" title="Twitter" alt="Twitter" width="40" height="40"/>
   </a>
 </div>
 
