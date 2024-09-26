@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. I'm Omkar Khoche, a passionate developer with a keen interest in full-stack development.
 
-## About Me
+## About Me      
 
 - 👋 Hi, I’m [@omkarkhoche3448](https://github.com/omkarkhoche3448)
 - 🎓 I’m pursuing a B.Tech in **Computer Science Engineering (AIML)** from Pimpri Chinchwad College of Engineering (PCCOE), Akurdi, with an expected graduation in 2026.
