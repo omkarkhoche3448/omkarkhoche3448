@@ -43,7 +43,7 @@ Welcome to my GitHub profile. I'm Omkar Khoche, a passionate developer with a ke
 
 Feel free to explore my repositories and check out my work!
 
-## Connect  Me
+## Connect Me
 
 <div >
   <a href="https://www.linkedin.com/in/omkar-khoche-964a86259" target="_blank">
