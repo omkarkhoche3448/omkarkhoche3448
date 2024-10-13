@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I'm Omkar Khoche, a passionate developer with a ke
 
 - 👋 Hi, I’m [@omkarkhoche3448](https://github.com/omkarkhoche3448)
 - 🎓 I’m pursuing a B.Tech in **Computer Science Engineering (AIML)** from Pimpri Chinchwad College of Engineering (PCCOE), Akurdi, with an expected graduation in 2026.
-- 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**.
+- 🌱 I’m currently learning **Data Structures and Algorithms (Full Stack Development)**.
 - 💞️ I’m looking to collaborate on **FullStack Projects**.
 - 📫 How to reach me: [omkarkhoche.work@gmail.com](mailto:omkarkhoche.work@gmail.com)
 
