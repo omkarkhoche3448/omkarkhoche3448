@@ -35,7 +35,6 @@ Welcome to my GitHub profile. I'm Omkar Khoche, a passionate developer with a ke
 <a href="#"><img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" width="50" height="50"></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=ai" title="AI" alt="AI" width="50" height="50"></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="50" height="50"></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="50" height="50"></a>
 
 </div>
 
